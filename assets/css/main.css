@@ -133,6 +133,7 @@ h6 {
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  border-radius: 4px;
 }
 
 .btn:hover {
@@ -1033,6 +1034,7 @@ svg:not(:root) {
 .footer {
   padding: 10rem 0 2rem;
   background-color: #000000;
+  line-height: 1.7;
 }
 
 @media screen and (max-width: 767px) {
